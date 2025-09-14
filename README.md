@@ -13,4 +13,4 @@ A visually interactive HR Analytical Dashboard that provides valuable insights i
 - Images/ → Dashboard screenshots
 
 ## Preview
-![Dashboard](DashBoard img.png)
+![Dashboard](DashBoard%20img.png)
