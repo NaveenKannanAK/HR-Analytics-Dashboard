@@ -5,10 +5,15 @@ A visually interactive HR Analytical Dashboard that provides valuable insights i
 🔍 Overview
 
 This project is a comprehensive HR analytics dashboard that helps analyze key HR metrics such as:
+
     ->Total employees and active employees
+    
     ->Attrition rate and job satisfaction
+    
     ->Employee demographics (age, gender, marital status)
+    
     ->Attrition by education, department, and job role
+    
 
 📌 Key Features
 
