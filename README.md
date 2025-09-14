@@ -18,14 +18,23 @@ This project is a comprehensive HR analytics dashboard that helps analyze key HR
 📌 Key Features
 
 👥 Employee Overview: Total employees split by gender.
+
 📉 Attrition Analysis:
+
     ->By Department
+    
     ->By Education Field
+    
     ->By Age Group
+    
     ->By Marital Status
+    
     ->By Job Role
+    
 ⭐ Job Satisfaction Rating: Out of 5 stars.
+
 📊 Visualizations: Pie charts, bar graphs, and tree maps for intuitive analysis.
+
 📈 Real-Time Insights: Easily interpret workforce trends to assist in strategic HR planning.
 
 🛠️ Technologies Used
